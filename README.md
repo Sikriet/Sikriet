@@ -4,7 +4,7 @@
 
 Soy Analista Programador.
 
-En mis tiempos libres suelo ver vídeos o directos sobre programación. Pero también suelo escuchar música de todo tipo, desde Lo-Fi a Metal.
+En mis tiempos libres suelo ver vídeos, directos sobre programación o me pongo a desarrollar ideas que me vienen a la mente. Pero también suelo escuchar música de todo tipo.
 
 ## 🛠️ Habilidades Actuales
 
