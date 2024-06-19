@@ -14,4 +14,4 @@ En mis tiempos libres veo vídeos, directos sobre programación o me pongo a des
 
 👩‍💻 Actualmente estoy desarrollando proyectos personales
 
-🧠 Aprendiendo: Astro, React y TypeScript
+🧠 Aprendiendo: Next.js, React, TypeScript y Astro
