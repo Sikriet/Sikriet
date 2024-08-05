@@ -8,7 +8,7 @@ En mis tiempos libres veo vídeos, directos sobre programación o me pongo a des
 
 ## 🛠️ Habilidades / Tecnologías
 
-[![Actual Skills](https://skillicons.dev/icons?i=astro,ts,react,tailwind,github,nodejs,py)]()
+[![Actual Skills](https://skillicons.dev/icons?i=astro,ts,react,tailwind,github,nodejs,py,nextjs)]()
 
 ## ℹ️ Otros Datos
 
