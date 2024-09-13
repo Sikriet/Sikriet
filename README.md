@@ -1,11 +1,24 @@
-# Hola, soy Matías! 👋
+# 👨‍💻 Analista Programador
 
-## 🛠️ Habilidades / Tecnologías
+## 🚀 Front-end
 
-[![Actual Skills](https://skillicons.dev/icons?i=astro,ts,react,tailwind,github,nodejs,py,nextjs)]()
+[![HTML](./images/HTML.svg)](https://es.wikipedia.org/wiki/HTML5)
+[![CSS](./images/CSS.svg)](https://es.wikipedia.org/wiki/CSS)
+[![Tailwind](./images/Tailwind.svg)](https://tailwindcss.com/)
 
-## 🚀 Sobre Mi
+## 🛠️ Back-end
 
-### Analista Programador.
+[![Python](./images/Python.svg)](https://www.python.org/)
+[![TypeScript](./images/TypeScript.svg)](https://www.typescriptlang.org/)
+[![NodeJS](./images/NodeJS.svg)](https://nodejs.org/)
 
-En mis tiempos libres veo vídeos, directos sobre programación o me pongo a desarrollar ideas que me vienen a la mente. Pero también suelo escuchar música de todo tipo.
+## 📚 Frameworks / Librerías
+
+[![Astro](./images/Astro.svg)](https://astro.build/)
+[![NextJS](./images/NextJS.svg)](https://nextjs.org/)
+[![React](./images/React.svg)](https://reactjs.org/)
+
+## 🗂️ Control de Versiones
+
+[![Git](./images/Git.svg)](https://git-scm.com/)
+[![Github](./images/Github.svg)](https://github.com)
