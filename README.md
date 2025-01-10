@@ -16,7 +16,7 @@
 
 [![Astro](./images/Astro.svg)](https://astro.build/)
 [![NextJS](./images/NextJS.svg)](https://nextjs.org/)
-[![React](./images/React.svg)](https://reactjs.org/)
+[![React](./images/React.svg)](https://react.dev/)
 
 ## 🗂️ Control de Versiones
 
