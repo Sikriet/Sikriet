@@ -21,4 +21,4 @@
 
 ## 📚 Aprendiendo
 
-![Svelte](./images/Svelte.svg)
+![Svelte](./images/svelte.svg)
