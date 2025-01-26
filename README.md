@@ -1,24 +1,24 @@
-# 👨‍💻 Analista Programador
+# 💻 Hola, soy Matías
 
-## 🚀 Front-end
+## 👨‍💻 Analista Programador Full-Stack
 
-[![HTML](./images/HTML.svg)](https://es.wikipedia.org/wiki/HTML5)
-[![CSS](./images/CSS.svg)](https://es.wikipedia.org/wiki/CSS)
-[![Tailwind](./images/Tailwind.svg)](https://tailwindcss.com/)
+📧 <mbzc99@gmail.com> | 🔗 [LinkedIn](https://www.linkedin.com/in/matias-zc/)
 
-## 🛠️ Back-end
+[![Portfolio](https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=astro&logoColor=white)](https://sikriet.dev)
 
-[![Python](./images/Python.svg)](https://www.python.org/)
-[![TypeScript](./images/TypeScript.svg)](https://www.typescriptlang.org/)
-[![NodeJS](./images/NodeJS.svg)](https://nodejs.org/)
+## 🛠️ Stack Tecnológico
 
-## 📚 Frameworks / Librerías
+![Astro](./images/Astro.svg)
+![NextJS](./images/NextJS.svg)
+![Cloudflare](./images/cloudflare.svg)
+![React](./images/React.svg)
+![TanStack](./images/tanstack.svg)  
+![TypeScript](./images/TypeScript.svg)
+![Python](./images/Python.svg)
+![Prisma](./images/prisma_dark.svg)
+![Tailwind](./images/Tailwind.svg)
+![Vercel](./images/vercel_dark.svg)
 
-[![Astro](./images/Astro.svg)](https://astro.build/)
-[![NextJS](./images/NextJS.svg)](https://nextjs.org/)
-[![React](./images/React.svg)](https://react.dev/)
+## 📚 Aprendiendo
 
-## 🗂️ Control de Versiones
-
-[![Git](./images/Git.svg)](https://git-scm.com/)
-[![Github](./images/Github.svg)](https://github.com)
+![Svelte](./images/Svelte.svg)
